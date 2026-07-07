@@ -93,15 +93,6 @@ Python 并发编程学习。
 </tr>
 </table>
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zyh364267040&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyh364267040&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ## 🌱 Current learning map
 
 ```mermaid
