@@ -54,6 +54,15 @@
 <tr>
 <td width="50%">
 
+### 🧠 AI Math Question Bank
+本地优先的 AI 数学题库与试卷审核工作流。<br>
+支持 PDF 导入、AI 二审、人工复核、正式入库、选题篮和 Markdown 导出。
+
+<a href="https://github.com/zyh364267040/ai-math-question-bank">查看仓库 →</a>
+
+</td>
+<td width="50%">
+
 ### 📘 MathNotes
 数学学习笔记与资料整理。  
 后续会作为 AI 数学讲义、错题整理、知识点结构化的基础资料库。
@@ -61,6 +70,8 @@
 <a href="https://github.com/zyh364267040/MathNotes">查看仓库 →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🕷️ SpiderProject
@@ -70,8 +81,6 @@ Python 爬虫与网页自动化学习项目。
 <a href="https://github.com/zyh364267040/SpiderProject">查看仓库 →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧮 gaokaomath
@@ -79,15 +88,6 @@ Python 爬虫与网页自动化学习项目。
 计划结合 OCR、知识点标签和 RAG，做成数学复习知识库。
 
 <a href="https://github.com/zyh364267040/gaokaomath">查看仓库 →</a>
-
-</td>
-<td width="50%">
-
-### ⚙️ concurrent_programming
-Python 并发编程学习。  
-包括多线程、多进程、线程池、异步 IO 等内容。
-
-<a href="https://github.com/zyh364267040/concurrent_programming">查看仓库 →</a>
 
 </td>
 </tr>
